@@ -1,0 +1,1 @@
+orker: python saliens.py
