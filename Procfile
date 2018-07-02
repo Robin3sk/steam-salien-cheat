@@ -1,1 +1,1 @@
-orker: python saliens.py
+worker: python saliens.py
